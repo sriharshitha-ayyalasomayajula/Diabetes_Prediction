@@ -21,6 +21,6 @@ This project requires the following libraries:
 * matplotlib
 * Seaborn
 
-Steps - Run diabetes_pred.py in the pythin terminal
+Steps - Run diabetes_pred.py in the python terminal
 
 
